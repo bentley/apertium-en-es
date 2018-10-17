@@ -2976,8 +2976,8 @@
     <e r="RL" a="eleka"><p><l>support<s n="vblex"/></l><r>solidarizarse<s n="vblex"/><s n="pron"/></r></p></e>
     <e r="RL" a="eleka"><p><l>support<s n="vblex"/></l><r>solidarizarse<g><b/>con</g><s n="vblex"/><s n="pron"/></r></p></e>
     <e a="eleka"><p><l>retention<s n="n"/></l><r>retención<s n="n"/><s n="f"/></r></p></e>
-    <e a="eleka" c='vl="en_GB"'><p><l>suspender<b/>belt<s n="n"/></l><r>liguero<s n="n"/><s n="m"/></r></p></e>
-    <e c='vl="en_US"' r="LR"><p><l>garter<b/>belt<s n="n"/></l><r>liguero<s n="n"/><s n="m"/></r></p></e>
+    <e a="eleka" c='vl="eng_GB"'><p><l>suspender<b/>belt<s n="n"/></l><r>liguero<s n="n"/><s n="m"/></r></p></e>
+    <e c='vl="eng_US"' r="LR"><p><l>garter<b/>belt<s n="n"/></l><r>liguero<s n="n"/><s n="m"/></r></p></e>
     <e a="eleka"><p><l>league<b/>start<s n="n"/></l><r>inicio<b/>liguero<s n="n"/><s n="m"/></r></p></e>
     <e a="eleka"><p><l>league<b/>leader<s n="n"/></l><r>líder<b/>liguero<s n="n"/><s n="m"/></r></p></e>
     <e a="eleka"><p><l>ikastola<s n="n"/></l><r>ikastola<s n="n"/><s n="f"/></r></p></e>
@@ -13490,7 +13490,7 @@
     <e><p><l>drought<s n="n"/></l><r>sequía<s n="n"/><s n="f"/></r></p></e>
     <e slr="droga"><p><l>drug<s n="n"/></l><r>droga<s n="n"/><s n="f"/></r></p></e>
     <e slr="fármaco D"><p><l>drug<s n="n"/></l><r>fármaco<s n="n"/><s n="m"/></r></p></e>
-    <e c='vl="en_US"' i="yes"><p><l>drugstore<s n="n"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e>
+    <e c='vl="eng_US"' i="yes"><p><l>drugstore<s n="n"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e>
     <e slr="bidón"><p><l>drum<s n="n"/></l><r>bidón<s n="n"/><s n="m"/></r></p></e>
     <e slr="tambor D"><p><l>drum<s n="n"/></l><r>tambor<s n="n"/><s n="m"/></r></p></e>
     <e r="LR"><p><l>drunkard<s n="n"/></l><r>borracho<s n="n"/><s n="GD"/></r></p></e>
@@ -15899,7 +15899,7 @@
     <e><p><l>petal<s n="n"/></l><r>pétalo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>petrol<s n="n"/></l><r>gasolina<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pharaoh<s n="n"/></l><r>faraón<s n="n"/><s n="m"/></r></p></e>
-    <e c='vl="en_GB"'><p><l>pharmacy<s n="n"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e>
+    <e c='vl="eng_GB"'><p><l>pharmacy<s n="n"/></l><r>farmacia<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>phase<s n="n"/></l><r>fase<s n="n"/><s n="f"/></r></p></e>
     <e r="LR" slr="fase"><p><l>phase<s n="n"/></l><r>fase<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>phenomenon<s n="n"/></l><r>fenómeno<s n="n"/><s n="m"/></r></p></e>
@@ -17519,8 +17519,8 @@
     <e><p><l>tan<s n="n"/></l><r>bronceado<s n="n"/><s n="m"/></r></p></e>
     <e slr="depósito" srl="tank D"><p><l>tank<s n="n"/></l><r>depósito<s n="n"/><s n="m"/></r></p></e>
     <e slr="tanque D" c="Mil."><p><l>tank<s n="n"/></l><r>tanque<s n="n"/><s n="m"/></r></p></e>
-    <e c='vl="en_GB"'><p><l>tap<s n="n"/></l><r>grifo<s n="n"/><s n="m"/></r></p></e>
-    <e c='vl="en_US"' r="LR"><p><l>faucet<s n="n"/></l><r>grifo<s n="n"/><s n="m"/></r></p></e>
+    <e c='vl="eng_GB"'><p><l>tap<s n="n"/></l><r>grifo<s n="n"/><s n="m"/></r></p></e>
+    <e c='vl="eng_US"' r="LR"><p><l>faucet<s n="n"/></l><r>grifo<s n="n"/><s n="m"/></r></p></e>
     <e srl="tape"><p><l>tape<s n="n"/></l><r>cinta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>tapestry<s n="n"/></l><r>tapiz<s n="n"/><s n="m"/></r></p></e>
     <e r="RL" srl="target"><p><l>target<s n="n"/></l><r>blanco<s n="n"/><s n="m"/></r></p></e>
@@ -30582,8 +30582,8 @@
     <e r="LR" a="greenbreen"><p><l>lumber<s n="n"/></l><r>madera<s n="n"/><s n="f"/></r></p></e>
     <e a="greenbreen"><p><l>pancake<s n="n"/></l><r>panqueque<s n="n"/><s n="m"/></r></p></e>
     <e a="greenbreen"><p><l>riddle<s n="n"/></l><r>adivinanza<s n="n"/><s n="f"/></r></p></e>
-    <e a="greenbreen" c='vl="en_US"' r="LR"><p><l>sidewalk<s n="n"/></l><r>acera<s n="n"/><s n="f"/></r></p></e>
-    <e c='vl="en_GB"'><p><l>footpath<s n="n"/></l><r>acera<s n="n"/><s n="f"/></r></p></e>
+    <e a="greenbreen" c='vl="eng_US"' r="LR"><p><l>sidewalk<s n="n"/></l><r>acera<s n="n"/><s n="f"/></r></p></e>
+    <e c='vl="eng_GB"'><p><l>footpath<s n="n"/></l><r>acera<s n="n"/><s n="f"/></r></p></e>
     <e a="greenbreen"><p><l>toothbrush<s n="n"/></l><r>cepillo<g><b/>de<b/>dientes</g><s n="n"/><s n="m"/></r></p></e>
     <e a="greenbreen"><p><l>hen<s n="n"/></l><r>gallina<s n="n"/><s n="f"/></r></p></e>
     <e a="greenbreen"><p><l>raven<s n="n"/></l><r>cuervo<s n="n"/><s n="m"/></r></p></e>
@@ -37797,8 +37797,8 @@
     <e srl="cookery" a="imaxinsoftware"><p><l>cookery<s n="n"/></l><r>cocina<s n="n"/><s n="f"/></r></p></e>
     <e r="LR" a="imaxinsoftware"><p><l>sweetish<s n="adj"/></l><r>algo<b/>dulce<s n="adj"/><s n="mf"/></r></p></e>
     <e a="imaxinsoftware"><p><l>botanically<s n="adv"/></l><r>botánicamente<s n="adv"/></r></p></e>
-    <e a="imaxinsoftware" c='vl="en_GB"'><p><l>courgette<s n="n"/></l><r>calabacín<s n="n"/><s n="m"/></r></p></e>
-    <e c='vl="en_US"' r="LR"><p><l>zucchini<s n="n"/></l><r>calabacín<s n="n"/><s n="m"/></r></p></e>
+    <e a="imaxinsoftware" c='vl="eng_GB"'><p><l>courgette<s n="n"/></l><r>calabacín<s n="n"/><s n="m"/></r></p></e>
+    <e c='vl="eng_US"' r="LR"><p><l>zucchini<s n="n"/></l><r>calabacín<s n="n"/><s n="m"/></r></p></e>
     <e a="imaxinsoftware"><p><l>breadfruit<s n="n"/></l><r>árbol<g><b/>del<b/>pan</g><s n="n"/><s n="m"/></r></p></e>
     <e r="RL" a="imaxinsoftware"><p><l>breadfruit<s n="n"/></l><r>frutipan<s n="n"/><s n="m"/></r></p></e>
     <e srl="palatable" a="imaxinsoftware"><p><l>palatable<s n="adj"/></l><r>aceptable<s n="adj"/><s n="mf"/></r></p></e>
@@ -38291,15 +38291,15 @@
     <e><p><l>legume<s n="n"/></l><r>legumbre<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>crying<s n="n"/></l><r>llanto<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>orange<b/>blossom<s n="n"/></l><r>azahar<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL" c='vl="en_US"'><p><l>blender<s n="n"/></l><r>licuadora<s n="n"/><s n="f"/></r></p></e>
-    <e c='vl="en_US"'><p><l>liquidiser<s n="n"/></l><r>licuadora<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" c='vl="eng_US"'><p><l>blender<s n="n"/></l><r>licuadora<s n="n"/><s n="f"/></r></p></e>
+    <e c='vl="eng_US"'><p><l>liquidiser<s n="n"/></l><r>licuadora<s n="n"/><s n="f"/></r></p></e>
     <e r="RL"><p><l>mat<s n="n"/></l><r>esterilla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>trumpet<s n="n"/></l><r>trompeta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>ramp<s n="n"/></l><r>rampa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pigmentation<s n="n"/></l><r>pigmentación<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>snake<s n="n"/></l><r>culebra<s n="n"/><s n="f"/></r></p></e>
-    <e c='vl="en_US"' i="yes"><p><l>sidewalk<s n="n"/></l><r>banqueta<s n="n"/><s n="f"/></r></p></e>
-    <e c='vl="en_GB"' r="RL"><p><l>footpath<s n="n"/></l><r>banqueta<s n="n"/><s n="f"/></r></p></e>
+    <e c='vl="eng_US"' i="yes"><p><l>sidewalk<s n="n"/></l><r>banqueta<s n="n"/><s n="f"/></r></p></e>
+    <e c='vl="eng_GB"' r="RL"><p><l>footpath<s n="n"/></l><r>banqueta<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>consumerism<s n="n"/></l><r>consumismo<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>symbiosis<s n="n"/></l><r>simbiosis<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>accordion<s n="n"/></l><r>acordeón<s n="n"/><s n="m"/></r></p></e>
@@ -38641,8 +38641,8 @@
     <e r="RL"><p><l>nuisance<s n="n"/></l><r>incordio<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>frenzy<s n="n"/></l><r>frenesí<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>detachment<s n="n"/></l><r>desprendimiento<s n="n"/><s n="m"/></r></p></e>
-    <e r="RL" c='v="en_US"' i="yes"><p><l>drugstore<s n="n"/></l><r>droguería<s n="n"/><s n="f"/></r></p></e>
-    <e r="RL" c='v="en_GB"'><p><l>pharmacy<s n="n"/></l><r>droguería<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" c='v="eng_US"' i="yes"><p><l>drugstore<s n="n"/></l><r>droguería<s n="n"/><s n="f"/></r></p></e>
+    <e r="RL" c='v="eng_GB"'><p><l>pharmacy<s n="n"/></l><r>droguería<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>shaver<s n="n"/></l><r>afeitadora<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>putty<s n="n"/></l><r>masilla<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>pedantry<s n="n"/></l><r>pedantería<s n="n"/><s n="f"/></r></p></e>
@@ -38735,8 +38735,8 @@
     <e><p><l>stealth<s n="n"/></l><r>sigilo<s n="n"/><s n="m"/></r></p></e>
     <e r="RL"><p><l>trail<s n="n"/></l><r>reguero<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>hatch<s n="n"/></l><r>escotilla<s n="n"/><s n="f"/></r></p></e>
-    <e c='vl="en_US"' r="LR"><p><l>parcheesi<s n="n"/></l><r>parchís<s n="n"/><s n="m"/></r></p></e>
-    <e c='vl="en_GB"'><p><l>ludo<s n="n"/></l><r>parchís<s n="n"/><s n="m"/></r></p></e>
+    <e c='vl="eng_US"' r="LR"><p><l>parcheesi<s n="n"/></l><r>parchís<s n="n"/><s n="m"/></r></p></e>
+    <e c='vl="eng_GB"'><p><l>ludo<s n="n"/></l><r>parchís<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>canoe<s n="n"/></l><r>canoa<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>galleon<s n="n"/></l><r>galeón<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>piecework<s n="n"/></l><r>destajo<s n="n"/><s n="m"/></r></p></e>

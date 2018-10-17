@@ -9,7 +9,7 @@ echo "Comprovació superficial";
 echo "=======================";
 echo -n "Calculant expansió inicial...";
 if [ -e $PREFIX.$1.metadix ];
-then xsltproc --stringparam alt en_GB alt.xsl $PREFIX.$1.metadix > $PREFIX.$1.metatmp
+then xsltproc --stringparam alt eng_GB alt.xsl $PREFIX.$1.metadix > $PREFIX.$1.metatmp
      xsltproc buscaPar.xsl $PREFIX.$1.metatmp | uniq > tmp1gen.xsl 	 
      xsltproc tmp1gen.xsl $PREFIX.$1.metatmp >$PREFIX.$1.dixtmp1 
      rm tmp1gen.xsl $PREFIX.$1.metatmp
